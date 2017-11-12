@@ -78,6 +78,15 @@ body {
   text-shadow: 3px 1px 0px rgba(11,41,60, 0.6);
 }
 
+.marx {
+  position: absolute;
+  top: 330px;
+  left: 190px;
+  font-family: 'Pacifico', sans-serif;
+  font-size: 4.2em;
+  text-shadow: 3px 1px 0px rgba(11,41,60, 0.6);
+}
+
 .white {
   margin: 0 auto;
   width: 40%;
@@ -90,8 +99,16 @@ body {
   padding: 10px 20px;
 }
 
+.white3 {
+  background-color: rgba(255,255,255,1);
+}
+
 .smallimg img {
   width: 40%;
+}
+
+.smallerimg img {
+  width: 60%;
 }
 
 .smaller {
@@ -148,6 +165,11 @@ iframe {
 
 .rust img {
   background-color: rgba(66,198,218, 0.6);
+  padding: 20px 20px;
+}
+
+.rust-green img {
+  background-color: rgba(66,180,69, 0.6);
   padding: 20px 20px;
 }
 
